@@ -1,8 +1,8 @@
 #!/bin/sh
 
-export IP_ADDRESS=xxx.xxx.xx.xx
+export IP_ADDRESS='127.0.0.1'
 
-export GOOGLE_MAP_API_KEY=<YOUR GOOGLE_API_KEY>
+export GOOGLE_MAP_API_KEY='AIzaSyBJL16RM9c8uz0XlMyGxXOk48Gc2RDn2SsAIzaSyBJL16RM9c8uz0XlMyGxXOk48Gc2RDn2Ss'
 
 sudo -E docker-compose up -d
 
